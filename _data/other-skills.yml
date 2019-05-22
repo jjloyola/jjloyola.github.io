@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Eclipse
+  percentage: 60
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Jupyter Notebooks
+  percentage: 70
   color: success
+
+- name: Visual Studio
+  percentage: 40
+  color: info
+
+- name: CPLEX Optimization Studio
+  percentage: 60
+  color: danger

@@ -1,6 +1,68 @@
-- title: Student, Harvard CS
-  from: 2014
+- title: Master's Degree on Computer Science, UTFSM, CL
+  from: 2015
   to: 2018
+  description: Trabajo de titulo Bus routing for static and dynamic emergency evacuations.
+               Problema de optimizacion combinatoria, que considera la planificacion de
+              rutas de evacuación usando transporte público en una situación de emergencia,
+              resuelto mediante la implementación de un Algoritmo Evolutivo.
+               Especialización en Inteligencia Artificial, Metaheurísticas, Optimización.
+               Estudios realizados con beca de arancel completo.
+
+- title: Student of Computer Science, UTFSM, CL
+  from: 2007
+  to: 2016
+  description: Trabajo de memoria Bus Routing for Emergency Evacuations.Implementación de un
+               algoritmo basado en la metaheurística Greedy Randomized Adaptive Search para
+               la resolución el problema de bus routing en su versión estática.
+
+- title: Software Engineer, Google, UK
+  from: 2018
+  to: present
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Software Engineer, Google, UK
+  from: 2018
+  to: present
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Software Engineer, Google, UK
+  from: 2018
+  to: present
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Software Engineer, Google, UK
+  from: 2018
+  to: present
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Software Engineer, Google, UK
+  from: 2018
+  to: present
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Software Engineer, Google, UK
+  from: 2018
+  to: present
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris

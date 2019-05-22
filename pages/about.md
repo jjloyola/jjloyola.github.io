@@ -1,14 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /aboutme/
 weight: 3
 ---
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi! I am **{{ site.author.name }}**<br>
+I am a professional with abilities to understand, divide and solve complex analytic problems. I have experience in teaching and in research, so I am used to working under high levels of demand and with teams, and I've been also in charge of students. I have good abilities to narrate and expose in front of audiences. I love to be constantly learning new things, and I always look for efficient and innovative ways of doing things. In addition, I consider myself meticulous, organized and responsible. I like traveling and getting to know other cultures. I enjoy studying new languages, I'm a native Spanish speaker and I speak fluent English.
+
+My main interests are Artificial Intelligence, Combinatorial Optimization, Evolutionary Algorithms, Data Science and Machine Learning.
 
 <div class="row">
 {% include skills.html title="Programming Skills" source=site.data.programming-skills %}
