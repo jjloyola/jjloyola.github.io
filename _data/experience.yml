@@ -1,0 +1,49 @@
+- title: College Teaching assistant - Research project coordinator, UTFSM, CL
+  from: Jun 2018
+  to: Dec 2018
+  description: In charge of organizing and planning the phases and evaluation in the research
+               project of the Metaheuristics course, which consists of the study and development
+               of the state of the art of a combinatorial optimization problem, to later solve it
+               through the implementation of a metaheuristic in a linux environment. In charge of the
+               3 assistants that directly guide the students.
+  subjects: C/C++, GNU/Linux, Operations Research, Combinatorial optimization, Teaching
+
+
+- title: College Teaching assistant, UTFSM, CL
+  from: 2015
+  to: 2017
+  description: In charge of guiding and evaluating the students in the research project of the Metaheuristics course.
+               Treated problems - Bus Evacuation Problem (2015), Killer Sudoku (2016), Stable Marriage Problem (2017).
+  subjects: C/C++, Operations Research, Combinatorial optimization, Teaching
+
+
+- title: College Teaching assistant, UTFSM, CL
+  from: 2015
+  to: 2017
+  description: Teaching assistant in the Operations Research course. Main subjects are Decision Theory,
+               Inventory Theory, Classification Trees, Queueing theory and Linear Regression.
+  subjects: Operations Research, Teaching
+
+
+- title: Internship, Lifeware Integra S.A (Start-up), CL
+  from: Apr 2015
+  to: Aug 2015
+  description: Artificial Intelligence Consultor, C and C++ Developer. Research and development of algorithms for the detection of poses
+               with the use of clusters, from images captured with depth cameras (kinect).
+  subjects: C/C++, Visual Studio
+
+
+- title: Research Intern, UTFSM, CL
+  from: 2015
+  to: 2017
+  description: FONDECYT Project <i>"Meta-algorithmic strategies for improving heuristics-based search algorithms"</i>.
+               Research and development of a state of the art of the problem "Bus Evacuation Problem". Implementation
+               of a solution applied to a real-based scenario in the city of Valparaíso, Chile.
+  subjects: C/C++, GNU/Linux, Operations Research, Combinatorial optimization, Research
+
+
+- title: Internship, National Institute of Industrial Property (INAPI), CL
+  from: Jan 2010
+  to: Feb 2010
+  description: Developer of a web application to support internal processes of the institution.
+  subjects: C#, ASP.NET, Sql Server 2008, Visual Studio

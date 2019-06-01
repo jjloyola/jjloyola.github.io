@@ -1,0 +1,23 @@
+- title: MS in Computer Science Engineering, UTFSM, CL
+  from: 2015
+  to: 2018
+  description: Thesis project - Bus routing for static and dynamic emergency evacuations.
+               Combinatorial optimization problem, which considers the planning of
+               evacuation routes using public transport in an emergency situation,
+               solved with an Evolutionary Algorithm.
+               Studies carried out with complete annual tuition fee scholarship.
+  relevant-courses: Machine Learning, Evolutionary computation,
+               Advanced Metaheuristics, Constraint Programming, Research Methodology
+
+
+
+- title: BS in Computer Science Engineering, UTFSM, CL
+  from: 2007
+  to: 2016
+  description: Thesis project - Bus Routing for Emergency Evacuations.
+               Implementation of an algorithm based on the Greedy Randomized
+               Adaptive Search metaheuristics to solve the problem of bus routing
+               in its static version.
+  relevant-courses: Operations Research, Combinatorial Optimization and
+               Metaheuristics, Computational Statistics, Bioinformatics, Scientific
+               Computing, Business Intelligence

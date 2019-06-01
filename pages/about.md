@@ -17,6 +17,12 @@ My main interests are Artificial Intelligence, Combinatorial Optimization, Evolu
 {% include skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
+# **Education**
 <div class="row">
-{% include timeline.html %}
+{% include education.html %}
+</div>
+
+# **Experience**
+<div class="row">
+{% include experience.html %}
 </div>

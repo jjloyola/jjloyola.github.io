@@ -1,8 +1,11 @@
 # Local Site Directories
 _site/
+_posts/
+*.mdXX
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+_projects/daily-coding-problem.md
 
 # To generate Gemfile.lock -> use: $ bundle install
 # If unknown encoding name CP720 Error occured -> use: $ chcp.com 1252
