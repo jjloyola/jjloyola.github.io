@@ -1,7 +1,7 @@
 ---
 name: Routing for a bus based evacuation 🚍
 tools: [C++, Combinatorial Optimization, GRASP, Operations Research]
-image: ../assets/images/bep-grasp/preview1.jpg
+image: ../assets/images/bep-grasp/preview2.jpg
 description: Scheduling bus routes for an evacuation with Combinatorial Optimization
 ---
 
